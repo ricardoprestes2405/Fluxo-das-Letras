@@ -1,0 +1,70 @@
+.h2{
+    text-align: center;
+}
+body{
+    background:linear-gradient(to right,#d3d3d3,#d3d3d3);
+}
+.linhaverticalvermelha{
+    border-left: 13px solid red;
+    height: 5000px;
+    position: absolute;
+    left: 0;
+    margin-left: -5px;
+    top: 200px;
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linhaverticallaranjaliteratura{
+    border-left: 13px solid orange;
+    height: 2800px;
+    position: absolute;
+    left: 0;
+    margin-left: -5px;
+    top: 0px;
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linhaverticalverde{
+    border-left: 13px solid green;
+    height: 2000px;
+    position: absolute;
+    left: 0;
+    margin-left: -5px;
+    top: 7700px;
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linhaverticalazul{
+    border-left: 13px solid blue;
+    height: 4550px;
+    position: absolute;
+    left: 0;
+    margin-left: -5px;
+    top: 9600px;
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+.imagemlogo{
+    width: 200px;
+    height: 100%;
+    position: relative;
+    display: flex;
+    bottom: -0rem;
+}
